@@ -16,7 +16,7 @@ minikube start
 kubectl cluster-info
 ```
 
-Create the Kubernetes resources:
+Check out this repo and then create the Kubernetes resources:
 
 `kubectl apply -f hello-world.yaml`
 
